@@ -1,0 +1,11 @@
+flasgger==0.9.5
+Werkzeug==2.0.3
+gunicorn==20.1.0
+pandas-gbq
+setuptools>=65.5.1
+Flask-Caching
+Flask==2.0.3
+nltk>=3.6.6
+pandas
+numpy
+azure-cosmos
